@@ -5,7 +5,7 @@
 <html >
 <head>
   <meta charset="UTF-8">
-  <title>考勤管理系统</title>
+  <title>厦门大学软件学院考勤统计系统</title>
   <link rel="stylesheet" href="css/login.css">
 </head>
 
